@@ -1,0 +1,6 @@
+[submodule "lingospeak-backend"]
+	path = lingospeak-backend
+	url = https://github.com/bhhhoang/lingospeak-backend.git
+[submodule "lingospeak-frontend"]
+	path = lingospeak-frontend
+	url = https://github.com/bhhhoang/lingospeak-frontend.git
